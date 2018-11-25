@@ -158,17 +158,16 @@ section {
     background-position: center center;
     background-size: cover;
 }
-
 .header-logo__title {
     display: block;
-
+    text-align: center;
     letter-spacing: 0.33em;
 
     color: #df8a13;
     text-shadow: 0 0 5px black, 0 0 20px black;
 
     font-family: "PT Serif", serif;
-    font-size: 3.5rem;
+    font-size: 3.5vw;
     font-weight: bold;
 }
 
@@ -180,7 +179,7 @@ section {
     color: white;
     text-shadow: 0 0 5px black, 0 0 20px black;
 
-    font-size: 1.15rem;
+    font-size: 1.15vw;
 }
 
 .main .panel-search {
